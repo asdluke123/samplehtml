@@ -1,0 +1,18 @@
+[2022-06-21 12:21:24.759] [remoteagent] [info] Extension host agent started.
+[2022-06-21 12:21:25.292] [remoteagent] [info] [127.0.0.1][5cff5769][ManagementConnection] New connection established.
+[2022-06-21 12:21:25.452] [remoteagent] [info] [127.0.0.1][d3baa3cf][ExtensionHostConnection] New connection established.
+[2022-06-21 12:21:25.460] [remoteagent] [info] [127.0.0.1][d3baa3cf][ExtensionHostConnection] <1476> Launched Extension Host Process.
+[2022-06-21 12:21:28.480] [remoteagent] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-06-21 12:21:28.607] [remoteagent] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-06-21 12:25:55.599] [remoteagent] [error] Error while installing the extension: ms-vscode.js-debug-companion
+[2022-06-21 12:25:55.599] [remoteagent] [error] Failed to install extension. ms-vscode.js-debug-companion
+[2022-06-21 12:25:55.601] [remoteagent] [error] Download: connect ETIMEDOUT 192.5.6.30:443
+    at I.downloadInstallableExtension (/home/asdluke12/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/server/node/server.main.js:135:97618)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async I.doRun (/home/asdluke12/.vscode-server/bin/e18005f0f1b33c29e81d732535d8c0e47cafb0b5/out/vs/server/node/server.main.js:135:96236)
+[2022-06-21 12:25:56.297] [remoteagent] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-06-21 12:25:56.297] [remoteagent] [info] Installing the extension without checking dependencies and pack ms-vscode.js-debug-companion
+[2022-06-21 12:25:56.469] [remoteagent] [info] Extracted extension to /home/asdluke12/.vscode-server/extensions/.d7686da1-1e57-4118-ae17-08ebafe9a205: ms-vscode.js-debug-companion
+[2022-06-21 12:25:56.474] [remoteagent] [info] Renamed to /home/asdluke12/.vscode-server/extensions/ms-vscode.js-debug-companion-1.0.18
+[2022-06-21 12:25:56.475] [remoteagent] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-06-21 12:25:56.476] [remoteagent] [info] Extension installed successfully: ms-vscode.js-debug-companion
